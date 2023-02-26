@@ -30,9 +30,6 @@ Analyze my favorite Youtubers' published videos:
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-
 * [Youtube API for Python: How to Create a Unique Data Portfolio Project](https://www.youtube.com/watch?v=D56_Cx36oGY&t=132s&ab_channel=ThuVudataanalytics)
 * [Find Youtuber's Channel ID](https://commentpicker.com/)
 
